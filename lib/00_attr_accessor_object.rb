@@ -1,0 +1,3 @@
+class AttrAccessorObject
+
+end
